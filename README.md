@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Douglas Daniel
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Douglas Daniel, tenho 26 anos e sou natural de Rio Branco/AC, residindo em Tietê/SP. Concluí o ensino médio na escola Plinio, Atualmente estou cursando Ciencias da Computação na CEUNSP. Sou apaixonado por tecnologia e compartilho meu conhecimento pelo meu Github, onde tenho alguns projetos web, e também através do Instagram, com o perfil chamado "[Douglasdanielll](https://www.instagram.com)".
 <p align="left">
