@@ -18,13 +18,7 @@ Me chamo Douglas Daniel, tenho 26 anos, residindo em Tietê/SP. Concluí o ensin
             src="https://custom-icon-badges.demolab.com/github/followers/Douglas-Daniel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-  <a href="https://www.instagram.com/douglasdanielll?">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Douglas-Daniel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=instagram&label=Seguidores&logoColor=white"
-        />
-    </a>
+ 
 </p>
 ---
 
