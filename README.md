@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Douglas Daniel, tenho 26 anos, residindo em Tietê/SP. Concluí o ensino médio na escola Plinio, Atualmente estou cursando Ciencias da Computação na CEUNSP. Sou apaixonado por tecnologia e compartilho meu conhecimento pelo meu Github, onde tenho alguns projetos web, e também através do Instagram, com o perfil chamado "[Douglas danielll](https://www.instagram.com)".
+Me chamo Douglas Daniel, tenho 26 anos, residindo em Tietê/SP. Concluí o ensino médio na escola Plinio, Atualmente estou cursando Ciencias da Computação na CEUNSP. Sou apaixonado por tecnologia e compartilho meu conhecimento pelo meu Github, onde tenho alguns projetos, e também através do Instagram, com o perfil chamado "[Douglas danielll](https://www.instagram.com)".
 <p align="left">
     <a href="https://github.com/Douglas-Daniel?tab=repositories&sort=stargazers">
         <img 
