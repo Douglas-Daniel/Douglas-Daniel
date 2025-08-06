@@ -20,6 +20,7 @@ Me chamo Douglas Daniel, tenho 26 anos, residindo em Tietê/SP. Concluí o ensin
     </a>
  
 </p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
