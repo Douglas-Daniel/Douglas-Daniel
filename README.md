@@ -66,22 +66,3 @@ Me chamo Douglas Daniel, tenho 26 anos e sou natural de Rio Branco/AC, residindo
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="#" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="#" 
-  />
-
-</p>
